@@ -4,6 +4,8 @@
 <path>/${PROJECT_DIR_NAME}/src</path>
 <path>/${PROJECT_DIR_NAME}/lab</path>
 <path>/${PROJECT_DIR_NAME}/test</path>
+<path>/${PROJECT_DIR_NAME}/spec</path>
+<path>/${PROJECT_DIR_NAME}/spec2</path>
 </pydev_pathproperty>
 <pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python 2.7</pydev_property>
 <pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">python27</pydev_property>
